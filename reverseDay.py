@@ -12,7 +12,7 @@ config = {
     # We will monitor the userJoin events of this channel.
     "channel": "#yourChannel",
 
-    # These names will not be affected by a Pokémon name.
+    # These names will not be affected by a Reversed name.
     "override": ["nick1", "nick2"],
 }
 
